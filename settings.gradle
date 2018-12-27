@@ -1,0 +1,6 @@
+rootProject.name = 'com.demo'
+include 'demo2-1'
+include 'demo2-2'
+
+//includeFlat  'A' 平级项目
+
